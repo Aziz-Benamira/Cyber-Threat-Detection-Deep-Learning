@@ -41,7 +41,7 @@ This project uses **Python** and the following libraries:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/cyber-threat-detection.git
+   git clone https://github.com/Aziz-BenAmira/cyber-threat-detection.git
    cd cyber-threat-detection
    ```
 
